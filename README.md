@@ -1,4 +1,4 @@
-# Html code Zip Pekora Korone virus
+# Html code Zip Pekora Korone
 You can copy this code
 ---
 
@@ -51,3 +51,19 @@ Copy the html 1.:
 ---
 
 # 2.
+
+---
+
+# Example Copy HTML asset 2.
+
+Copy script berikut:
+
+```javascript
+console.log("Hello GitHub");
+```
+
+Copy HTML:
+
+```html
+<h1>Hello World</h1>
+```
