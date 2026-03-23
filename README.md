@@ -162,3 +162,7 @@ https://github.com/imjonfield/Pekora-Unofficial-Clients/releases/download/v1.1.2
 ---
 
 just got thats i think
+
+<img width="2000" height="2000" alt="3419" src="https://github.com/user-attachments/assets/33dc82c1-5f01-4cd2-a4fe-f433f727f511" />
+
+
