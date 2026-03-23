@@ -1,3 +1,6 @@
+Tag version: v1.0
+Release title: First Release
+Description: Install APK here
 # Html code Zip Pekora Korone
 You can copy this code
 ---
