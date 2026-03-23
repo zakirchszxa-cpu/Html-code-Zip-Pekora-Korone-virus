@@ -103,26 +103,24 @@ Copy HTML:
 <!DOCTYPE html>
 <html>
 <head>
-    <link href="main_tablet_notification_stream_enabled.css" rel="stylesheet" type="text/css" />
-    <script type="text/javascript" src="touche.js"></script>
-    <script src="jquery.min.js" type="text/javascript" ></script>
+    <meta name="viewport" content="width=320, initial-scale=1">
+	<link href="main_phone.css" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="touche.js"></script>
+	<script src="jquery.min.js" type="text/javascript" ></script>
     <script src="main.js" type="text/javascript" ></script>
 </head>
 <body>
 <div id="moreContainer" class="container">
-    <div id="row1" class="row">
+	<div id="rowMessages" class="row">
+		<a id="lnkCatalog"><div id="btnCatalog" class="btn"><div class="btnContainer"><img src="img/icon_catalog@2x.png" /><span class="centerText lang-label" data-lang-key="catalog"></span></div></div></a>
         <a id="lnkProfile"><div id="btnProfile" class="btn"><div class="btnContainer"><img src="img/icon_profile@2x.png" /><span class="centerText lang-label" data-lang-key="profile"></span></div></div></a>
-        <a id="lnkCharacter"><div id="btnCharacter" class="btn"><div class="btnContainer"><img src="img/icon_character@2x.png" /><span class="centerText lang-label" data-lang-key="character"></span></div></div></a>
         <a id="lnkGroups"><div id="btnGroups" class="btn"><div class="btnContainer"><img src="img/icon_groups@2x.png" /><span class="centerText lang-label" data-lang-key="groups"></span></div></div></a>
-        <a id="lnkInventory"><div id="btnInventory" class="btn"><div class="btnContainer"><img src="img/icon_inventory@2x.png" /><span class="centerText lang-label" data-lang-key="inventory"></span></div></div></a>
-
     </div>
     <div id="row2" class="row">
+        <a id="lnkInventory"><div id="btnInventory" class="btn"><div class="btnContainer"><img src="img/icon_inventory@2x.png" /><span class="centerText lang-label" data-lang-key="inventory"></span></div></div></a>
         <a id="lnkMessages"><div id="btnMessages" class="btn"><div class="btnContainer"><img src="img/icon_messages@2x.png" /><span class="centerText lang-label" data-lang-key="messages"></span></div></div></a>
+        <a id="lnkVRMode"><div id="btnVRMode" class="btn"><div class="btnContainer"><img src="img/icon_vr@2x.png" /><span class="centerText lang-label" data-lang-key="vr"></div></span></div></a>
         <a id="lnkBuilderClub"><div id="btnBuilderClub" class="btn"><div class="btnContainer"><img src="img/ic-obc@2x.png" /><span class="centerText lang-label" data-lang-key="builders"></span></div></div></a>
-        <a id="lnkForum"><div id="btnForum" class="btn"><div class="btnContainer"><img src="img/icon_forum@2x.png" /><span class="centerText lang-label" data-lang-key="forum"></span></div></div></a>
-        <a id="lnkTrade"><div id="btnTrade" class="btn"><div class="btnContainer"><img src="img/icon_trade@2x.png" /><span class="centerText lang-label" data-lang-key="trade"></span></div></div></a>
-
     </div>
     <div id="row3" class="row">
         <a id="lnkBlog"><div id="btnBlog" class="btn"><div class="btnContainer"><img src="img/icon_blog@2x.png" /><span class="centerText lang-label" data-lang-key="blog"></span></div></div></a>
