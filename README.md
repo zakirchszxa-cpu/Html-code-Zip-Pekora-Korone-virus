@@ -154,8 +154,11 @@ https://github.com/imjonfield/Pekora-Unofficial-Clients/releases/download/v1.1.2
 ```
 ## 📦 Assets
 
-[![Download Korone 2017](https://img.shields.io/badge/Download-Korone__2017.apk-blue)](https://github.com/USERNAME/REPO/releases)
+[![Download Korone 2017](https://img.shields.io/badge/Download-Korone__2017.apk-blue)](https://github.com/imjonfield/Pekora-Unofficial-Clients/releases/download/v1.1.25/Korone_2017.apk
+)
 
-[![Download Korone 2020](https://img.shields.io/badge/Download-Korone__2020.apk-blue)](https://github.com/USERNAME/REPO/releases)
+# Sorry if my asset is not many
 
-[![Download Korone 2021](https://img.shields.io/badge/Download-Korone__2021.apk-blue)](https://github.com/USERNAME/REPO/releases)
+---
+
+just got thats i think
