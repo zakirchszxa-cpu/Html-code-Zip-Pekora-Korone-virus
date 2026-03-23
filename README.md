@@ -1,6 +1,3 @@
-Tag version: v1.0
-Release title: First Release
-Description: Install APK here
 # Html code Zip Pekora Korone
 You can copy this code
 ---
@@ -155,3 +152,10 @@ Copy HTML:
 https://github.com/imjonfield/Pekora-Unofficial-Clients/releases/download/v1.1.25/Korone_2017.apk
 
 ```
+## 📦 Assets
+
+[![Download Korone 2017](https://img.shields.io/badge/Download-Korone__2017.apk-blue)](https://github.com/USERNAME/REPO/releases)
+
+[![Download Korone 2020](https://img.shields.io/badge/Download-Korone__2020.apk-blue)](https://github.com/USERNAME/REPO/releases)
+
+[![Download Korone 2021](https://img.shields.io/badge/Download-Korone__2021.apk-blue)](https://github.com/USERNAME/REPO/releases)
